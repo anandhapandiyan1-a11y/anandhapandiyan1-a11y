@@ -1,36 +1,19 @@
-# Hi there, I'm Anandha Pandiyan C 👋 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=timeGradient&height=200&section=header&text=Anandha%20Pandiyan%20C&fontSize=50&fontAlignY=35&animation=twinkling&desc=Autonomous%20AI%20%26%20Agentic%20Systems%20Developer&descAlignY=62&descScale=20" width="100%" />
+</div>
 
-### 🤖 Autonomous AI & Agentic Systems Developer | B.Tech AI & DS
+<div align="center">
+  <a href="mailto:anandhapandiyan1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anandhapandiyan1-a11y"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-I am an AI/ML Engineer specializing in **Autonomous Multi-Agent Orchestration, RAG Architectures, Computer Vision, and Full-Stack Integration**. I design and build production-ready intelligent workflows, automated pipelines, and full-stack software solutions.
+<br/>
 
----
+### 🚀 About Me
 
-### 🛠️ Tech Stack & Capabilities
-
-- **Core Programming:** Python, C, JavaScript, SQL
-- **AI / ML & Agents:** LangChain, OpenAI API, Multi-Agent Systems, RAG, Computer Vision (OpenCV, MediaPipe), CNN/RNN Architecture
-- **Web & Backend Development:** Node.js, Express.js, React.js, MongoDB, REST APIs, Streamlit
-- **Tools & Deployment:** Git, GitHub, Vercel, Render, VS Code
-
----
-
-### 🚀 Featured Projects
-
-- 🤖 **Custom AI Agent Infrastructure:** Built a multi-tool autonomous agent in Python using LangChain and custom logic tools for date-time processing and task workflows.
-- 🖐️ **Touchless Virtual Canvas:** Developed an interactive computer vision application using OpenCV, MediaPipe, and Hand Tracking to enable air-drawing gestures.
-- 🏋️ **Gym Management System:** Built and deployed a full-stack web application with complete member orchestration and responsive dashboard interfaces.
-- 🏢 **EcoCycle Kiosk Concept:** Designed a reverse vending architecture integrating multi-waste classification and automated processing systems.
-
----
-
-### 🎯 Current Focus & Ambition
-- 🔭 Building scalable multi-agent workflows and vector search pipelines.
-- 🏋️ Powerlifter (74kg category) | Beach Volleyball Player.
-- 💬 Ask me about: **AI Agents, RAG, OpenCV, and Full-Stack Web Development**.
-
----
-
-📫 **Connect with me:**
-- **Email:** anandhapandiyan1@gmail.com
-- **LinkedIn:** [Anandha Pandiyan](https://linkedin.com)
+```yaml
+Degree: B.Tech in Artificial Intelligence & Data Science (2024 - 2028)
+Institution: Renganayagi Varatharaj College of Engineering
+Core Expertise: Multi-Agent Systems, RAG Architectures, Computer Vision, Full-Stack Web
+Passions: High-Performance AI Engineering & Powerlifting (74kg Category)
