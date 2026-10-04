@@ -114,18 +114,20 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖐️ Touchless Virtual Canvas</h3>
-      <p><b>Gesture-Controlled Real-Time Drawing Canvas</b></p>
-      <p>Computer vision interactive platform enabling air-gesture drawing and canvas manipulation powered by MediaPipe hand landmark tracking and OpenCV.</p>
+      <h3>🥗 Calorie & Nutrition Prediction ML Model</h3>
+      <p><b>High-Accuracy (~99.0%) Nutritional Intelligence</b></p>
+      <p>Machine learning model trained on 7,000+ curated entries to dynamically predict exact calories, proteins, fats, and macronutrients based on nutritional parameters.</p>
       <p>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Accuracy-99.0%25-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>❄️ AC Fix — Service Booking Platform</h3>
       <p><b>Full-Stack Mechanic Booking & Scheduling SaaS</b></p>
-      <p>Complete full-stack platform connecting customers with verified AC technicians with interactive booking logic.</p>
+      <p>Complete full-stack platform connecting customers with verified AC technicians with interactive booking logic, customer-provider workflows, and cloud database.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -147,8 +149,7 @@
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
     <img src="https://img.shields.io/badge/Ollama_Local_LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white" />
     <img src="https://img.shields.io/badge/RAG_Pipelines-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLMOps-FF6F61?style=for-the-badge" />
   </p>
 
   #### 💻 Languages & Full-Stack Development
