@@ -1,20 +1,22 @@
 <div align="center">
 
-  <!-- ⚡ NEON CYBER TYPING HEADER (100% RELIABLE) -->
+  <!-- 🌌 CYBER NEON TYPING BANNER -->
+  <h1>⚡ ANANDHA PANDIYAN C ⚡</h1>
+  
   <a href="https://github.com/anandhapandiyan1-a11y">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2800&pause=1000&color=00F2FE&background=0D111700&center=true&vCenter=true&multiline=false&width=750&lines=🚀+ANANDHA+PANDIYAN+C;🤖+Autonomous+AI+%26+Multi-Agent+Engineer;⚡+Production+RAG+%26+Private+Local+LLMs;💎+Full-Stack+AI+SaaS+%7C+AST+Self-Healing;🔥+Available+for+Freelance+%26+AI+Contracts;" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=00F2FE&center=true&vCenter=true&width=680&lines=Autonomous+AI+%26+Multi-Agent+Engineer;Production+RAG+%26+Private+Local+LLMs;Full-Stack+AI+SaaS+%7C+AST+Self-Healing;Available+for+Freelance+%26+AI+Contracts;" alt="Anandha Pandiyan C" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- 🚀 ROLE BADGES -->
+  <!-- 🚀 ROLE & STATUS BADGES -->
   <p>
-    <img src="https://img.shields.io/badge/FOCUS-Autonomous_AI_Agents-0052cc?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/ARCH-RAG_%26_Local_LLMOps-7928ca?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPECIALTY-Multi--Agent_Systems-0052cc?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/ARCH-Enterprise_RAG_%26_LLMOps-7928ca?style=for-the-badge&logo=databricks&logoColor=white" />
     <img src="https://img.shields.io/badge/STATUS-Open_for_Freelance-238636?style=for-the-badge&logo=fiverr&logoColor=white" />
   </p>
 
-  <!-- 🎯 HIGH-CONVERTING FREELANCE ACTION BUTTONS -->
+  <!-- 💬 DIRECT FREELANCE CONTACT BUTTONS -->
   <p>
     <a href="mailto:anandhapandiyan1@gmail.com">
       <img src="https://img.shields.io/badge/📩_Direct_Email-anandhapandiyan1@gmail.com-0052cc?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -33,8 +35,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <!-- 📸 Local Repo Profile Image (Upload profile.jpg to your repo) -->
-      <img src="profile.jpg" width="180px" alt="Anandha Pandiyan C" style="border-radius: 12px; border: 2px solid #00F2FE;" />
+      <img src="https://avatars.githubusercontent.com/anandhapandiyan1-a11y" width="170px" alt="Anandha Pandiyan C" style="border-radius: 50%;" />
       <br/><br/>
       <b>Anandha Pandiyan C</b><br/>
       <sub>Autonomous AI & Systems Architect</sub>
@@ -58,7 +59,7 @@
 
 | 🤖 Multi-Agent Automation | 🔍 Enterprise RAG & Local LLMs | 💻 Full-Stack AI SaaS MVP |
 | :--- | :--- | :--- |
-| • Sequential & Hierarchical AI Agent Teams<br/>• Automated Research, Coding & Deployment<br/>• Python AST Self-Healing Error Fixing | • Custom RAG on Private Documents<br/>• 100% Offline Local LLMs (Ollama/Llama 3)<br/>• Zero Cloud Costs & Complete Privacy | • High-performance FastAPI & Node Backends<br/>• Modern React.js & Streamlit UI<br/>• Dockerized Sandboxing & GitHub CI/CD |
+| • Sequential & Hierarchical AI Agent Teams<br/>• Automated Research, Coding & Deployment<br/>• Python AST Self-Healing Error Fixing | • Custom RAG on Private Documents<br/>• 100% Offline Local LLMs (Ollama / Llama 3)<br/>• Zero Cloud Costs & Complete Privacy | • High-performance FastAPI & Node Backends<br/>• Modern React.js & Streamlit UI<br/>• Docker Sandboxing & GitHub CI/CD |
 
 ---
 
@@ -69,7 +70,7 @@
     <td width="50%" valign="top">
       <h3>🤖 NexusDev-AI</h3>
       <p><b>Autonomous Multi-Agent AI Software Engineering Studio</b></p>
-      <p>Enterprise multi-agent studio utilizing Google Gemini API, FastAPI, React, and isolated Docker sandboxing. Implemented specialized sequential AI agents (Research, Architect, Coder, Deployer) with a <b>real-time Python AST Self-Healing Engine</b> for zero syntax errors and automated GitHub CI/CD.</p>
+      <p>Enterprise multi-agent studio utilizing Google Gemini API, FastAPI, React, and isolated Docker sandboxing. Implemented sequential AI agents (Research, Architect, Coder, Deployer) with a <b>real-time Python AST Self-Healing Engine</b> for zero runtime syntax errors and automated GitHub CI/CD.</p>
       <p>
         <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -80,7 +81,7 @@
     <td width="50%" valign="top">
       <h3>📊 CoginAI</h3>
       <p><b>Autonomous Data & Business Intelligence System</b></p>
-      <p>End-to-end automated BI platform auditing and cleaning <b>149k+ rows with 0% data discrepancies</b>. Powered by offline-first local Ollama models (phi3/llama3.1) ensuring 100% data confidentiality, zero cloud costs, and dynamic Plotly dashboards.</p>
+      <p>End-to-end automated BI platform auditing and processing <b>149k+ rows with 0% data discrepancies</b>. Powered by offline-first local Ollama models (phi3/llama3.1) ensuring 100% data confidentiality, zero cloud costs, and dynamic Plotly dashboards.</p>
       <p>
         <img src="https://img.shields.io/badge/Ollama_LLMs-000000?style=flat-square&logo=ollama&logoColor=white" />
         <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
@@ -92,8 +93,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏋️ AI Fitness & Nutrition RAG Assistant</h3>
-      <p><b>Intelligent Powerlifting & Macronutrient Engine</b></p>
-      <p>Production RAG assistant delivering tailored workout regimes for bulking, cutting, and weight category powerlifting training integrated with local vector search and precision macronutrient prediction.</p>
+      <p><b>Intelligent Powerlifting & Nutrition Engine</b></p>
+      <p>Production RAG assistant delivering customized workout regimes for bulking, cutting, and weight category powerlifting training with precise macronutrient prediction.</p>
       <p>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
         <img src="https://img.shields.io/badge/Vector_RAG-0052CC?style=flat-square" />
@@ -103,7 +104,7 @@
     <td width="50%" valign="top">
       <h3>🔍 AI Code Reviewer & Refactor Assistant</h3>
       <p><b>Automated Code Quality & Security Pipeline</b></p>
-      <p>Live-deployed code analysis suite using Google Gemini API and Streamlit with structured JSON telemetry, syntax diagnostics, and intelligent refactoring suggestions.</p>
+      <p>Live-hosted code analysis suite using Google Gemini API and Streamlit with structured JSON telemetry, syntax diagnostics, and intelligent refactoring suggestions.</p>
       <p>
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -114,17 +115,17 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🖐️ Touchless Virtual Canvas</h3>
-      <p><b>Gesture-Controlled Real-Time Computer Vision Canvas</b></p>
-      <p>Interactive platform enabling air-gesture drawing and canvas manipulation powered by MediaPipe hand landmark tracking and OpenCV.</p>
+      <p><b>Gesture-Controlled Real-Time Drawing Canvas</b></p>
+      <p>Computer vision interactive platform enabling air-gesture drawing and canvas manipulation powered by MediaPipe hand landmark tracking and OpenCV.</p>
       <p>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>❄️ AC Fix — Service Booking SaaS</h3>
-      <p><b>Full-Stack Mechanic Booking & Scheduling Platform</b></p>
-      <p>Complete full-stack platform connecting customers with verified AC mechanics, featuring scheduling workflows and interactive dashboard.</p>
+      <h3>❄️ AC Fix — Service Booking Platform</h3>
+      <p><b>Full-Stack Mechanic Booking & Scheduling SaaS</b></p>
+      <p>Complete full-stack platform connecting customers with verified AC technicians with interactive booking logic.</p>
       <p>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -181,7 +182,7 @@
 - 🎖️ **Generative AI - Enabled Web Application Development** — *RVCE in association with Karkai Knowledge Arena*
 - 📜 **DCS - Diploma in Computer Software Programming (Grade 'A')** — *Alpha Web Academy (C, C++, Python, MySQL)*
 - 🍃 **MongoDB Certified & RAG AI Agent Badges** — *Modern Database-Driven Applications & Vector Systems*
-- 🏅 **District Level 6th Place — Powerlifting Championship (74kg Division)** — *Uncompromising work ethic & physical discipline*
+- 🏅 **District Level 6th Place — Powerlifting Championship (74kg Division)** — *Uncompromising discipline & mental grit*
 
 ---
 
